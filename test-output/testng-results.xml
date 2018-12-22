@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="39" started-at="2018-11-22T15:42:35Z" finished-at="2018-11-22T15:42:35Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="39" started-at="2018-11-22T15:42:35Z" finished-at="2018-11-22T15:42:35Z">
+      <class name="TestNg.FirstTestng">
+        <test-method status="PASS" signature="OpenUrl()[pri:0, instance:TestNg.FirstTestng@5bfbf16f]" name="OpenUrl" is-config="true" duration-ms="7323" started-at="2018-11-22T15:42:28Z" finished-at="2018-11-22T15:42:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- OpenUrl -->
+        <test-method status="PASS" signature="FlipkartMenMobile()[pri:0, instance:TestNg.FirstTestng@5bfbf16f]" name="FlipkartMenMobile" duration-ms="9" started-at="2018-11-22T15:42:35Z" finished-at="2018-11-22T15:42:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- FlipkartMenMobile -->
+        <test-method status="PASS" signature="Test1()[pri:0, instance:TestNg.FirstTestng@5bfbf16f]" name="Test1" is-config="true" duration-ms="0" started-at="2018-11-22T15:42:35Z" finished-at="2018-11-22T15:42:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test1 -->
+        <test-method status="PASS" signature="Test2()[pri:0, instance:TestNg.FirstTestng@5bfbf16f]" name="Test2" is-config="true" duration-ms="0" started-at="2018-11-22T15:42:35Z" finished-at="2018-11-22T15:42:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test2 -->
+        <test-method status="PASS" signature="Test1()[pri:0, instance:TestNg.FirstTestng@5bfbf16f]" name="Test1" is-config="true" duration-ms="0" started-at="2018-11-22T15:42:35Z" finished-at="2018-11-22T15:42:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test1 -->
+        <test-method status="PASS" signature="FlipkartMenShaving()[pri:0, instance:TestNg.FirstTestng@5bfbf16f]" name="FlipkartMenShaving" duration-ms="3" started-at="2018-11-22T15:42:35Z" finished-at="2018-11-22T15:42:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- FlipkartMenShaving -->
+        <test-method status="PASS" signature="Test2()[pri:0, instance:TestNg.FirstTestng@5bfbf16f]" name="Test2" is-config="true" duration-ms="1" started-at="2018-11-22T15:42:35Z" finished-at="2018-11-22T15:42:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test2 -->
+      </class> <!-- TestNg.FirstTestng -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
